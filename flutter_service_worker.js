@@ -11,7 +11,7 @@ const RESOURCES = {
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "index.html": "52c093c6f6a56e6e39c956cff28fcc79",
-"/": "52c093c6f6a56e6e39c956cff28fcc79",
+"/uptime_web/": "52c093c6f6a56e6e39c956cff28fcc79",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
